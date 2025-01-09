@@ -1,7 +1,24 @@
 {
-    "name": "@repo/15i",
+    "name": "15i",
     "version": "0.1.0",
     "type": "module",
+    "license": "MIT",
+    "author": {
+        "name": "jkeussen",
+        "url": "https://x.com/jkeussen"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jkeussen/15i.git",
+        "directory": "packages/15i"
+    },
+    "keywords": [
+        "components",
+        "ui",
+        "icons",
+        "radix-ui",
+        "15px"
+    ],
     "scripts": {
         "dev": "tsup src/index.ts --format cjs,esm --dts --watch",
         "build": "tsup src/index.ts --format cjs,esm --dts",
@@ -29,5 +46,8 @@
         "@types/react-dom": "^18.2.0",
         "tsup": "^8.3.5",
         "typescript": "latest"
+    },
+    "dependencies": {
+        "@changesets/cli": "^2.27.11"
     }
 }
