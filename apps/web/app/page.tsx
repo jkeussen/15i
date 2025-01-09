@@ -7,7 +7,6 @@ import {
   TooltipContent,
   TooltipTrigger,
 } from "@/components/ui/tooltip";
-import { Abstract } from "@/components/icon-groupings";
 import { Button } from "@/components/ui/button";
 
 export default function Home() {
@@ -47,8 +46,6 @@ export default function Home() {
           );
         })}
       </div>
-
-      <Abstract />
     </>
   );
 }

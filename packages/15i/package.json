@@ -6,7 +6,8 @@
         "dev": "tsup src/index.ts --format cjs,esm --dts --watch",
         "build": "tsup src/index.ts --format cjs,esm --dts",
         "clean": "rm -rf dist",
-        "generate-metadata": "tsx scripts/generate-metadata.ts"
+        "generate-metadata": "tsx scripts/generate-metadata.ts",
+        "update-metadata": "tsx scripts/update-metadata-exports.ts"
     },
     "exports": {
         ".": {
