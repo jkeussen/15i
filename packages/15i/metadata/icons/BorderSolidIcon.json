@@ -1,13 +1,26 @@
 {
     "fileName": "BorderSolidIcon",
     "name": "Border Solid",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "border",
+        "solid",
+        "line",
+        "divider"
+    ],
+    "categories": [
+        "interface",
+        "layout"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "border",
+        "solid",
+        "line",
+        "divider"
+    ]
 }

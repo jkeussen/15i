@@ -1,13 +1,28 @@
 {
     "fileName": "CursorArrowIcon",
     "name": "Cursor Arrow",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "cursor",
+        "arrow",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "cursor",
+        "arrow",
+        "ui",
+        "design",
+        "web"
+    ]
 }

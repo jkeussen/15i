@@ -1,13 +1,26 @@
 {
     "fileName": "ColumnsIcon",
     "name": "Columns",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "columns",
+        "grid",
+        "layout",
+        "ui"
+    ],
+    "categories": [
+        "interface",
+        "layout"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "columns",
+        "grid",
+        "layout",
+        "ui"
+    ]
 }

@@ -1,13 +1,26 @@
 {
     "fileName": "ChevronUpIcon",
     "name": "Chevron Up",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "chevron",
+        "up",
+        "arrow",
+        "navigation"
+    ],
+    "categories": [
+        "interface",
+        "navigation"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "chevron",
+        "up",
+        "arrow",
+        "navigation"
+    ]
 }

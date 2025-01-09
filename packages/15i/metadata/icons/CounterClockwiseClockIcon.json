@@ -1,13 +1,30 @@
 {
     "fileName": "CounterClockwiseClockIcon",
     "name": "Counter Clockwise Clock",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "counter",
+        "clockwise",
+        "clock",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "counter",
+        "clockwise",
+        "clock",
+        "ui",
+        "design",
+        "web"
+    ]
 }

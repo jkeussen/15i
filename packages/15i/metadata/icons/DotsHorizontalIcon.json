@@ -1,13 +1,28 @@
 {
     "fileName": "DotsHorizontalIcon",
     "name": "Dots Horizontal",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "dots",
+        "horizontal",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "dots",
+        "horizontal",
+        "ui",
+        "design",
+        "web"
+    ]
 }

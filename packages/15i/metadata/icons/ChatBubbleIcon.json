@@ -1,13 +1,26 @@
 {
     "fileName": "ChatBubbleIcon",
     "name": "Chat Bubble",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "chat",
+        "bubble",
+        "message",
+        "communication"
+    ],
+    "categories": [
+        "interface",
+        "communication"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "chat",
+        "bubble",
+        "message",
+        "communication"
+    ]
 }

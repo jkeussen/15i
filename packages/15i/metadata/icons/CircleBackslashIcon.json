@@ -1,13 +1,26 @@
 {
     "fileName": "CircleBackslashIcon",
     "name": "Circle Backslash",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "circle",
+        "backslash",
+        "symbol",
+        "math"
+    ],
+    "categories": [
+        "interface",
+        "math"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "circle",
+        "backslash",
+        "symbol",
+        "math"
+    ]
 }

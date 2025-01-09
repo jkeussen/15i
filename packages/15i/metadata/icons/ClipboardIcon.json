@@ -1,13 +1,26 @@
 {
     "fileName": "ClipboardIcon",
     "name": "Clipboard",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "clipboard",
+        "copy",
+        "paste",
+        "data"
+    ],
+    "categories": [
+        "interface",
+        "data"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "clipboard",
+        "copy",
+        "paste",
+        "data"
+    ]
 }

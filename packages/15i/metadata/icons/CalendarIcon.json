@@ -1,13 +1,26 @@
 {
     "fileName": "CalendarIcon",
     "name": "Calendar",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "calendar",
+        "date",
+        "time",
+        "schedule"
+    ],
+    "categories": [
+        "interface",
+        "layout"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "calendar",
+        "date",
+        "time",
+        "schedule"
+    ]
 }

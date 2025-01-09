@@ -1,13 +1,24 @@
 {
     "fileName": "BoxIcon",
     "name": "Box",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "box",
+        "container",
+        "layout"
+    ],
+    "categories": [
+        "interface",
+        "layout"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "box",
+        "container",
+        "layout"
+    ]
 }

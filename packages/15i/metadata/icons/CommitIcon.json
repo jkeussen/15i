@@ -1,13 +1,26 @@
 {
     "fileName": "CommitIcon",
     "name": "Commit",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "commit",
+        "version",
+        "git",
+        "code"
+    ],
+    "categories": [
+        "interface",
+        "code"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "commit",
+        "version",
+        "git",
+        "code"
+    ]
 }

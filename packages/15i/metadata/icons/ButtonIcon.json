@@ -1,13 +1,26 @@
 {
     "fileName": "ButtonIcon",
     "name": "Button",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "button",
+        "click",
+        "action",
+        "interaction"
+    ],
+    "categories": [
+        "interface",
+        "interaction"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "button",
+        "click",
+        "action",
+        "interaction"
+    ]
 }

@@ -1,13 +1,26 @@
 {
     "fileName": "CheckCircledIcon",
     "name": "Check Circled",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "check",
+        "circled",
+        "tick",
+        "success"
+    ],
+    "categories": [
+        "interface",
+        "feedback"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "check",
+        "circled",
+        "tick",
+        "success"
+    ]
 }

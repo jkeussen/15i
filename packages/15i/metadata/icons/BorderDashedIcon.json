@@ -1,13 +1,26 @@
 {
     "fileName": "BorderDashedIcon",
     "name": "Border Dashed",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "border",
+        "dashed",
+        "line",
+        "divider"
+    ],
+    "categories": [
+        "interface",
+        "layout"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "border",
+        "dashed",
+        "line",
+        "divider"
+    ]
 }

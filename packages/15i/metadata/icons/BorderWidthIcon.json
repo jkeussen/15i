@@ -1,13 +1,26 @@
 {
     "fileName": "BorderWidthIcon",
     "name": "Border Width",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "border",
+        "width",
+        "line",
+        "divider"
+    ],
+    "categories": [
+        "interface",
+        "layout"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "border",
+        "width",
+        "line",
+        "divider"
+    ]
 }

@@ -1,13 +1,23 @@
 {
     "fileName": "CodeSandboxLogoIcon",
     "name": "Code Sandbox Logo",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "codesandbox",
+        "logo",
+        "brand"
+    ],
+    "categories": [
+        "brand"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "codesandbox",
+        "logo",
+        "brand"
+    ]
 }

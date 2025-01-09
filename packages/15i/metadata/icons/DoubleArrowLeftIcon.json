@@ -1,13 +1,30 @@
 {
     "fileName": "DoubleArrowLeftIcon",
     "name": "Double Arrow Left",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "double",
+        "arrow",
+        "left",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "double",
+        "arrow",
+        "left",
+        "ui",
+        "design",
+        "web"
+    ]
 }

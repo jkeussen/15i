@@ -1,13 +1,24 @@
 {
     "fileName": "CodeIcon",
     "name": "Code",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "code",
+        "programming",
+        "development"
+    ],
+    "categories": [
+        "interface",
+        "development"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "code",
+        "programming",
+        "development"
+    ]
 }

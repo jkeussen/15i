@@ -1,13 +1,26 @@
 {
     "fileName": "BorderAllIcon",
     "name": "Border All",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "border",
+        "all",
+        "square",
+        "box"
+    ],
+    "categories": [
+        "interface",
+        "layout"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "border",
+        "all",
+        "square",
+        "box"
+    ]
 }

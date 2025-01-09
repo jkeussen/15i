@@ -1,13 +1,28 @@
 {
     "fileName": "CrumpledPaperIcon",
     "name": "Crumpled Paper",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "crumpled",
+        "paper",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "crumpled",
+        "paper",
+        "ui",
+        "design",
+        "web"
+    ]
 }

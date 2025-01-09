@@ -1,13 +1,26 @@
 {
     "fileName": "BorderLeftIcon",
     "name": "Border Left",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "border",
+        "left",
+        "line",
+        "divider"
+    ],
+    "categories": [
+        "interface",
+        "layout"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "border",
+        "left",
+        "line",
+        "divider"
+    ]
 }

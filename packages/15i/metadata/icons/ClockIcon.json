@@ -1,13 +1,24 @@
 {
     "fileName": "ClockIcon",
     "name": "Clock",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "clock",
+        "time",
+        "schedule"
+    ],
+    "categories": [
+        "interface",
+        "time"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "clock",
+        "time",
+        "schedule"
+    ]
 }

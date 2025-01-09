@@ -1,13 +1,30 @@
 {
     "fileName": "CornerBottomLeftIcon",
     "name": "Corner Bottom Left",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "corner",
+        "bottom",
+        "left",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "corner",
+        "bottom",
+        "left",
+        "ui",
+        "design",
+        "web"
+    ]
 }

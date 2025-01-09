@@ -1,13 +1,26 @@
 {
     "fileName": "DashIcon",
     "name": "Dash",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "dash",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "dash",
+        "ui",
+        "design",
+        "web"
+    ]
 }

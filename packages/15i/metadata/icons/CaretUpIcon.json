@@ -1,13 +1,26 @@
 {
     "fileName": "CaretUpIcon",
     "name": "Caret Up",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "caret",
+        "up",
+        "arrow",
+        "navigation"
+    ],
+    "categories": [
+        "interface",
+        "navigation"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "caret",
+        "up",
+        "arrow",
+        "navigation"
+    ]
 }

@@ -1,13 +1,26 @@
 {
     "fileName": "CornersIcon",
     "name": "Corners",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "corner",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "corner",
+        "ui",
+        "design",
+        "web"
+    ]
 }

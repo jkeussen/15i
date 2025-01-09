@@ -1,13 +1,28 @@
 {
     "fileName": "CountdownTimerIcon",
     "name": "Countdown Timer",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "countdown",
+        "timer",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "countdown",
+        "timer",
+        "ui",
+        "design",
+        "web"
+    ]
 }

@@ -1,13 +1,25 @@
 {
     "fileName": "ColumnSpacingIcon",
     "name": "Column Spacing",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "column",
+        "spacing",
+        "layout",
+        "ui"
+    ],
+    "categories": [
+        "interface",
+        "layout"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "column spacing",
+        "layout",
+        "ui"
+    ]
 }

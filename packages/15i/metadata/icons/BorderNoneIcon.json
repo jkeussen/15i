@@ -1,13 +1,26 @@
 {
     "fileName": "BorderNoneIcon",
     "name": "Border None",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "border",
+        "none",
+        "line",
+        "divider"
+    ],
+    "categories": [
+        "interface",
+        "layout"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "border",
+        "none",
+        "line",
+        "divider"
+    ]
 }

@@ -1,13 +1,28 @@
 {
     "fileName": "DividerHorizontalIcon",
     "name": "Divider Horizontal",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "divider",
+        "horizontal",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "divider",
+        "horizontal",
+        "ui",
+        "design",
+        "web"
+    ]
 }

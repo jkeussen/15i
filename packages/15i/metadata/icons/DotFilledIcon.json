@@ -1,13 +1,28 @@
 {
     "fileName": "DotFilledIcon",
     "name": "Dot Filled",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "dot",
+        "filled",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "dot",
+        "filled",
+        "ui",
+        "design",
+        "web"
+    ]
 }

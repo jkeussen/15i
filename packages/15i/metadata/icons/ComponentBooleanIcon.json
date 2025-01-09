@@ -1,13 +1,26 @@
 {
     "fileName": "ComponentBooleanIcon",
     "name": "Component Boolean",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "component",
+        "boolean",
+        "logic",
+        "ui"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "component",
+        "boolean",
+        "logic",
+        "ui"
+    ]
 }

@@ -1,13 +1,28 @@
 {
     "fileName": "CrossCircledIcon",
     "name": "Cross Circled",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "cross",
+        "circled",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "cross",
+        "circled",
+        "ui",
+        "design",
+        "web"
+    ]
 }

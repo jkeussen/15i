@@ -1,13 +1,26 @@
 {
     "fileName": "CopyIcon",
     "name": "Copy",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "copy",
+        "clipboard",
+        "data",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "data"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "copy",
+        "clipboard",
+        "data",
+        "web"
+    ]
 }

@@ -1,13 +1,28 @@
 {
     "fileName": "DiscordLogoIcon",
     "name": "Discord Logo",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "discord",
+        "logo",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "discord",
+        "logo",
+        "ui",
+        "design",
+        "web"
+    ]
 }

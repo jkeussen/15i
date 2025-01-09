@@ -1,13 +1,24 @@
 {
     "fileName": "CircleIcon",
     "name": "Circle",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "circle",
+        "shape",
+        "geometry"
+    ],
+    "categories": [
+        "interface",
+        "shapes"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "circle",
+        "shape",
+        "geometry"
+    ]
 }

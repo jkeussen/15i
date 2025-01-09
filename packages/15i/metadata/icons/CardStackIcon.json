@@ -1,13 +1,24 @@
 {
     "fileName": "CardStackIcon",
     "name": "Card Stack",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "card",
+        "stack",
+        "layout"
+    ],
+    "categories": [
+        "interface",
+        "layout"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "card",
+        "stack",
+        "layout"
+    ]
 }

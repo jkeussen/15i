@@ -1,13 +1,26 @@
 {
     "fileName": "CardStackMinusIcon",
     "name": "Card Stack Minus",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "card",
+        "stack",
+        "minus",
+        "layout"
+    ],
+    "categories": [
+        "interface",
+        "layout"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "card",
+        "stack",
+        "minus",
+        "layout"
+    ]
 }

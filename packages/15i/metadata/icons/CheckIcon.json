@@ -1,13 +1,24 @@
 {
     "fileName": "CheckIcon",
     "name": "Check",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "check",
+        "tick",
+        "success"
+    ],
+    "categories": [
+        "interface",
+        "feedback"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "check",
+        "tick",
+        "success"
+    ]
 }

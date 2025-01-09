@@ -1,13 +1,26 @@
 {
     "fileName": "CaretDownIcon",
     "name": "Caret Down",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "caret",
+        "down",
+        "arrow",
+        "navigation"
+    ],
+    "categories": [
+        "interface",
+        "navigation"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "caret",
+        "down",
+        "arrow",
+        "navigation"
+    ]
 }

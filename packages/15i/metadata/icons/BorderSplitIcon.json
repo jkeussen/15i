@@ -1,13 +1,26 @@
 {
     "fileName": "BorderSplitIcon",
     "name": "Border Split",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "border",
+        "split",
+        "line",
+        "divider"
+    ],
+    "categories": [
+        "interface",
+        "layout"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "border",
+        "split",
+        "line",
+        "divider"
+    ]
 }

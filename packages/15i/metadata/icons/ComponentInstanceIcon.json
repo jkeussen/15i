@@ -1,13 +1,28 @@
 {
     "fileName": "ComponentInstanceIcon",
     "name": "Component Instance",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "component",
+        "instance",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "component",
+        "instance",
+        "ui",
+        "design",
+        "web"
+    ]
 }

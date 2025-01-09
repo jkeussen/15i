@@ -1,13 +1,28 @@
 {
     "fileName": "DotsVerticalIcon",
     "name": "Dots Vertical",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "dots",
+        "vertical",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "dots",
+        "vertical",
+        "ui",
+        "design",
+        "web"
+    ]
 }

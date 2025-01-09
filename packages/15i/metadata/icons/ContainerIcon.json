@@ -1,13 +1,28 @@
 {
     "fileName": "ContainerIcon",
     "name": "Container",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "container",
+        "layout",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "layout"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "container",
+        "layout",
+        "ui",
+        "design",
+        "web"
+    ]
 }

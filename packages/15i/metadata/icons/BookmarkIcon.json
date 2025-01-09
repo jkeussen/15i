@@ -1,13 +1,26 @@
 {
     "fileName": "BookmarkIcon",
     "name": "Bookmark",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "bookmark",
+        "save",
+        "favorite",
+        "marker"
+    ],
+    "categories": [
+        "interface",
+        "status"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "bookmark",
+        "save",
+        "favorite",
+        "marker"
+    ]
 }

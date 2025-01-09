@@ -1,13 +1,26 @@
 {
     "fileName": "CheckboxIcon",
     "name": "Checkbox",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "checkbox",
+        "toggle",
+        "selection",
+        "input"
+    ],
+    "categories": [
+        "interface",
+        "input"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "checkbox",
+        "toggle",
+        "selection",
+        "input"
+    ]
 }

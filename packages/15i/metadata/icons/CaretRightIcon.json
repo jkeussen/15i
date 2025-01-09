@@ -1,13 +1,26 @@
 {
     "fileName": "CaretRightIcon",
     "name": "Caret Right",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "caret",
+        "right",
+        "arrow",
+        "navigation"
+    ],
+    "categories": [
+        "interface",
+        "navigation"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "caret",
+        "right",
+        "arrow",
+        "navigation"
+    ]
 }

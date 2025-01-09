@@ -1,13 +1,26 @@
 {
     "fileName": "DimensionsIcon",
     "name": "Dimensions",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "dimensions",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "dimensions",
+        "ui",
+        "design",
+        "web"
+    ]
 }

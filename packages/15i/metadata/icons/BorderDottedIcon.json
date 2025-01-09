@@ -1,13 +1,26 @@
 {
     "fileName": "BorderDottedIcon",
     "name": "Border Dotted",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "border",
+        "dotted",
+        "line",
+        "divider"
+    ],
+    "categories": [
+        "interface",
+        "layout"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "border",
+        "dotted",
+        "line",
+        "divider"
+    ]
 }

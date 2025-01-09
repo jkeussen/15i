@@ -1,13 +1,26 @@
 {
     "fileName": "BorderTopIcon",
     "name": "Border Top",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "border",
+        "top",
+        "line",
+        "divider"
+    ],
+    "categories": [
+        "interface",
+        "layout"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "border",
+        "top",
+        "line",
+        "divider"
+    ]
 }

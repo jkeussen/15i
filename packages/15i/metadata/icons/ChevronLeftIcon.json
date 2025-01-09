@@ -1,13 +1,26 @@
 {
     "fileName": "ChevronLeftIcon",
     "name": "Chevron Left",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "chevron",
+        "left",
+        "arrow",
+        "navigation"
+    ],
+    "categories": [
+        "interface",
+        "navigation"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "chevron",
+        "left",
+        "arrow",
+        "navigation"
+    ]
 }

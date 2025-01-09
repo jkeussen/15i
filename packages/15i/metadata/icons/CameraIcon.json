@@ -1,13 +1,26 @@
 {
     "fileName": "CameraIcon",
     "name": "Camera",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "camera",
+        "photo",
+        "image",
+        "capture"
+    ],
+    "categories": [
+        "interface",
+        "interaction"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "camera",
+        "photo",
+        "image",
+        "capture"
+    ]
 }

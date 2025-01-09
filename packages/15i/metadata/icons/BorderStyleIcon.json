@@ -1,13 +1,26 @@
 {
     "fileName": "BorderStyleIcon",
     "name": "Border Style",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "border",
+        "style",
+        "line",
+        "divider"
+    ],
+    "categories": [
+        "interface",
+        "layout"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "border",
+        "style",
+        "line",
+        "divider"
+    ]
 }

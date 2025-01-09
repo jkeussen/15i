@@ -1,13 +1,26 @@
 {
     "fileName": "Cross2Icon",
     "name": "Cross2",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "cross",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "cross",
+        "ui",
+        "design",
+        "web"
+    ]
 }

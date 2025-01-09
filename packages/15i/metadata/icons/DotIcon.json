@@ -1,13 +1,26 @@
 {
     "fileName": "DotIcon",
     "name": "Dot",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "dot",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "dot",
+        "ui",
+        "design",
+        "web"
+    ]
 }

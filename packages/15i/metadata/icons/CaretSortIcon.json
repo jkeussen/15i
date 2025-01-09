@@ -1,13 +1,26 @@
 {
     "fileName": "CaretSortIcon",
     "name": "Caret Sort",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "caret",
+        "sort",
+        "arrow",
+        "navigation"
+    ],
+    "categories": [
+        "interface",
+        "navigation"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "caret",
+        "sort",
+        "arrow",
+        "navigation"
+    ]
 }

@@ -1,13 +1,26 @@
 {
     "fileName": "BlendingModeIcon",
     "name": "Blending Mode",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "blending mode",
+        "blend mode",
+        "blend",
+        "mode"
+    ],
+    "categories": [
+        "interface",
+        "development"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "blending mode",
+        "blend mode",
+        "blend",
+        "mode"
+    ]
 }

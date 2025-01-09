@@ -1,13 +1,28 @@
 {
     "fileName": "CursorTextIcon",
     "name": "Cursor Text",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "cursor",
+        "text",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "cursor",
+        "text",
+        "ui",
+        "design",
+        "web"
+    ]
 }

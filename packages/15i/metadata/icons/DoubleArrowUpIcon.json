@@ -1,13 +1,30 @@
 {
     "fileName": "DoubleArrowUpIcon",
     "name": "Double Arrow Up",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "double",
+        "arrow",
+        "up",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "double",
+        "arrow",
+        "up",
+        "ui",
+        "design",
+        "web"
+    ]
 }

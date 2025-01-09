@@ -1,13 +1,26 @@
 {
     "fileName": "CookieIcon",
     "name": "Cookie",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "cookie",
+        "data",
+        "storage",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "data"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "cookie",
+        "data",
+        "storage",
+        "web"
+    ]
 }

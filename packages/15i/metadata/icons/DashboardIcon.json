@@ -1,13 +1,26 @@
 {
     "fileName": "DashboardIcon",
     "name": "Dashboard",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "dashboard",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "dashboard",
+        "ui",
+        "design",
+        "web"
+    ]
 }

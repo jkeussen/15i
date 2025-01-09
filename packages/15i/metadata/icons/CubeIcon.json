@@ -1,13 +1,26 @@
 {
     "fileName": "CubeIcon",
     "name": "Cube",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "cube",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "cube",
+        "ui",
+        "design",
+        "web"
+    ]
 }

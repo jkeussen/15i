@@ -1,13 +1,26 @@
 {
     "fileName": "BorderBottomIcon",
     "name": "Border Bottom",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "border",
+        "bottom",
+        "line",
+        "divider"
+    ],
+    "categories": [
+        "interface",
+        "layout"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "border",
+        "bottom",
+        "line",
+        "divider"
+    ]
 }

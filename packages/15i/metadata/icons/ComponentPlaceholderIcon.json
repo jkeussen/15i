@@ -1,13 +1,28 @@
 {
     "fileName": "ComponentPlaceholderIcon",
     "name": "Component Placeholder",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "component",
+        "placeholder",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "component",
+        "placeholder",
+        "ui",
+        "design",
+        "web"
+    ]
 }

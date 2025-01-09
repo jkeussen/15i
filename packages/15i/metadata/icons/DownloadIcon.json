@@ -1,13 +1,26 @@
 {
     "fileName": "DownloadIcon",
     "name": "Download",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "download",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "download",
+        "ui",
+        "design",
+        "web"
+    ]
 }

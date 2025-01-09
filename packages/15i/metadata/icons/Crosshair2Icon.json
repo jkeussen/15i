@@ -1,13 +1,26 @@
 {
     "fileName": "Crosshair2Icon",
     "name": "Crosshair2",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "crosshair",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "crosshair",
+        "ui",
+        "design",
+        "web"
+    ]
 }

@@ -1,13 +1,26 @@
 {
     "fileName": "DesktopIcon",
     "name": "Desktop",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "desktop",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "desktop",
+        "ui",
+        "design",
+        "web"
+    ]
 }
