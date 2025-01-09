@@ -1,0 +1,26 @@
+{
+    "name": "@repo/15i",
+    "type": "module",
+    "scripts": {
+        "dev": "tsup src/index.ts --format cjs,esm --dts --watch",
+        "build": "tsup src/index.ts --format cjs,esm --dts"
+    },
+    "exports": {
+        "./add": {
+            "types": "./src/add.ts",
+            "default": "./dist/add.js"
+        },
+        "./subtract": {
+            "types": "./src/subtract.ts",
+            "default": "./dist/subtract.js"
+        }
+    },
+    "main": "./dist/index.js",
+    "module": "./dist/index.mjs",
+    "types": "./dist/index.d.ts",
+    "devDependencies": {
+        "@repo/typescript-config": "*",
+        "tsup": "^8.3.5",
+        "typescript": "latest"
+    }
+}
