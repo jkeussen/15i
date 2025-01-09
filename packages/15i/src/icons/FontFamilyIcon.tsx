@@ -1,5 +1,5 @@
 import * as React from "react";
-import { IconProps } from "./types";
+import { IconProps } from "./types.js";
 
 export const FontFamilyIcon = React.forwardRef<SVGSVGElement, IconProps>(
   ({ color = "currentColor", ...props }, forwardedRef) => {
@@ -19,7 +19,7 @@ export const FontFamilyIcon = React.forwardRef<SVGSVGElement, IconProps>(
         />
       </svg>
     );
-  }
+  },
 );
 
 export default FontFamilyIcon;

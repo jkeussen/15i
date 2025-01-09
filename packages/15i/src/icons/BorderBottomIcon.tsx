@@ -1,5 +1,5 @@
 import * as React from "react";
-import { IconProps } from "./types";
+import { IconProps } from "./types.js";
 
 export const BorderBottomIcon = React.forwardRef<SVGSVGElement, IconProps>(
   ({ color = "currentColor", ...props }, forwardedRef) => {
@@ -47,7 +47,7 @@ export const BorderBottomIcon = React.forwardRef<SVGSVGElement, IconProps>(
         <rect x="1" y="11" width="1" height="1" rx=".5" fill={color} />
       </svg>
     );
-  }
+  },
 );
 
 export default BorderBottomIcon;

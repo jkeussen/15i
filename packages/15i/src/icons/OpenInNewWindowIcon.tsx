@@ -1,5 +1,5 @@
 import * as React from "react";
-import { IconProps } from "./types";
+import { IconProps } from "./types.js";
 
 export const OpenInNewWindowIcon = React.forwardRef<SVGSVGElement, IconProps>(
   ({ color = "currentColor", ...props }, forwardedRef) => {
@@ -21,7 +21,7 @@ export const OpenInNewWindowIcon = React.forwardRef<SVGSVGElement, IconProps>(
         />
       </svg>
     );
-  }
+  },
 );
 
 export default OpenInNewWindowIcon;

@@ -1,5 +1,5 @@
 import * as React from "react";
-import { IconProps } from "./types";
+import { IconProps } from "./types.js";
 
 export const BorderSplitIcon = React.forwardRef<SVGSVGElement, IconProps>(
   ({ color = "currentColor", ...props }, forwardedRef) => {
@@ -34,7 +34,7 @@ export const BorderSplitIcon = React.forwardRef<SVGSVGElement, IconProps>(
         />
       </svg>
     );
-  }
+  },
 );
 
 export default BorderSplitIcon;

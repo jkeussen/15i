@@ -5,6 +5,7 @@ import {
   TooltipProvider,
   TooltipTrigger,
 } from "@/components/ui/tooltip";
+import { Abstract } from "@/components/icon-groupings";
 
 export default function Home() {
   // Filter object entries to only get the icon components (ends with 'Icon')
@@ -13,7 +14,7 @@ export default function Home() {
   );
 
   return (
-    <TooltipProvider>
+    <>
       <div className="grid grid-cols-[repeat(auto-fit,minmax(30px,30px))] p-4 gap-1">
         {iconComponents.map(([name, Icon]) => (
           <Tooltip key={name}>
@@ -28,6 +29,8 @@ export default function Home() {
           </Tooltip>
         ))}
       </div>
-    </TooltipProvider>
+
+      <Abstract />
+    </>
   );
 }

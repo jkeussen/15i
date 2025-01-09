@@ -1,5 +1,5 @@
 import * as React from "react";
-import { IconProps } from "./types";
+import { IconProps } from "./types.js";
 
 export const LinkBreak1Icon = React.forwardRef<SVGSVGElement, IconProps>(
   ({ color = "currentColor", ...props }, forwardedRef) => {
@@ -21,7 +21,7 @@ export const LinkBreak1Icon = React.forwardRef<SVGSVGElement, IconProps>(
         />
       </svg>
     );
-  }
+  },
 );
 
 export default LinkBreak1Icon;
