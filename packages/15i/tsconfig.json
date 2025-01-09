@@ -2,7 +2,12 @@
     "extends": "@repo/typescript-config/base.json",
     "compilerOptions": {
         "outDir": "dist",
-        "rootDir": "src"
+        "rootDir": "src",
+        "jsx": "react",
+        "moduleResolution": "NodeNext",
+        "esModuleInterop": true,
+        "declaration": true,
+        "declarationDir": "dist"
     },
     "include": [
         "src"
