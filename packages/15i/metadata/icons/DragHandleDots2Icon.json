@@ -1,13 +1,30 @@
 {
     "fileName": "DragHandleDots2Icon",
     "name": "Drag Handle Dots2",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "drag",
+        "handle",
+        "dots",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "drag",
+        "handle",
+        "dots",
+        "ui",
+        "design",
+        "web"
+    ]
 }

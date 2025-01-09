@@ -1,13 +1,27 @@
 {
     "fileName": "PauseIcon",
     "name": "Pause",
-    "tags": [],
-    "categories": [],
+    "tags": [
+        "pause",
+        "ui",
+        "design",
+        "web"
+    ],
+    "categories": [
+        "interface",
+        "ui",
+        "media"
+    ],
     "contributors": [
         {
             "name": "Radix UI",
             "github": "radix-ui"
         }
     ],
-    "keywords": []
+    "keywords": [
+        "pause",
+        "ui",
+        "design",
+        "web"
+    ]
 }
