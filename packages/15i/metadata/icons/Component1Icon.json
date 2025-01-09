@@ -1,0 +1,13 @@
+{
+    "fileName": "Component1Icon",
+    "name": "Component1",
+    "tags": [],
+    "categories": [],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": []
+}

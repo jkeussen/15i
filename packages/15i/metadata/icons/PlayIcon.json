@@ -1,0 +1,28 @@
+{
+    "fileName": "PlayIcon",
+    "name": "Play",
+    "tags": [
+        "play",
+        "media",
+        "start",
+        "video",
+        "audio"
+    ],
+    "categories": [
+        "media",
+        "interface"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "play button",
+        "media control",
+        "start playback",
+        "video player",
+        "audio player"
+    ]
+}

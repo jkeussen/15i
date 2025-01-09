@@ -1,0 +1,27 @@
+{
+    "fileName": "AlignCenterVerticallyIcon",
+    "name": "Align Center Vertically",
+    "tags": [
+        "align",
+        "center",
+        "vertical",
+        "layout",
+        "middle"
+    ],
+    "categories": [
+        "layout",
+        "editor"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "vertical center",
+        "center alignment",
+        "vertical alignment",
+        "middle align"
+    ]
+}

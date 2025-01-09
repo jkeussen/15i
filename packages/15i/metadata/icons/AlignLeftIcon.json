@@ -1,0 +1,27 @@
+{
+    "fileName": "AlignLeftIcon",
+    "name": "Align Left",
+    "tags": [
+        "align",
+        "left",
+        "layout",
+        "position",
+        "horizontal"
+    ],
+    "categories": [
+        "layout",
+        "editor"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "left alignment",
+        "horizontal align",
+        "position left",
+        "align start"
+    ]
+}

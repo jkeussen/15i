@@ -1,0 +1,27 @@
+{
+    "fileName": "BarChartIcon",
+    "name": "Bar Chart",
+    "tags": [
+        "chart",
+        "graph",
+        "bars",
+        "statistics",
+        "data"
+    ],
+    "categories": [
+        "interface",
+        "development"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "data visualization",
+        "statistics graph",
+        "bar graph",
+        "analytics"
+    ]
+}

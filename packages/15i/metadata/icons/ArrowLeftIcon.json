@@ -1,0 +1,27 @@
+{
+    "fileName": "ArrowLeftIcon",
+    "name": "Arrow Left",
+    "tags": [
+        "arrow",
+        "direction",
+        "left",
+        "west",
+        "horizontal"
+    ],
+    "categories": [
+        "arrows",
+        "navigation"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "previous",
+        "back",
+        "west direction",
+        "left arrow"
+    ]
+}

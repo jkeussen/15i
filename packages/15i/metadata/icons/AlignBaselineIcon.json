@@ -1,0 +1,27 @@
+{
+    "fileName": "AlignBaselineIcon",
+    "name": "Align Baseline",
+    "tags": [
+        "align",
+        "baseline",
+        "text",
+        "typography",
+        "formatting"
+    ],
+    "categories": [
+        "editor",
+        "layout"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "text alignment",
+        "baseline grid",
+        "typography alignment",
+        "vertical align"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "fileName": "AlignTopIcon",
+    "name": "Align Top",
+    "tags": [
+        "align",
+        "top",
+        "layout",
+        "position",
+        "vertical"
+    ],
+    "categories": [
+        "layout",
+        "editor"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "top alignment",
+        "vertical align",
+        "position top",
+        "align start"
+    ]
+}

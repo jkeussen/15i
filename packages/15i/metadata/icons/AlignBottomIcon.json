@@ -1,0 +1,27 @@
+{
+    "fileName": "AlignBottomIcon",
+    "name": "Align Bottom",
+    "tags": [
+        "align",
+        "bottom",
+        "layout",
+        "position",
+        "vertical"
+    ],
+    "categories": [
+        "layout",
+        "editor"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "vertical alignment",
+        "bottom alignment",
+        "layout position",
+        "align elements"
+    ]
+}

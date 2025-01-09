@@ -1,0 +1,28 @@
+{
+    "fileName": "TextAlignLeftIcon",
+    "name": "Text Align Left",
+    "tags": [
+        "text",
+        "alignment",
+        "left",
+        "formatting",
+        "editor"
+    ],
+    "categories": [
+        "editor",
+        "interface"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "text alignment",
+        "left align",
+        "text formatting",
+        "text editor",
+        "paragraph alignment"
+    ]
+}

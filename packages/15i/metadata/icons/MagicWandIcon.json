@@ -1,0 +1,28 @@
+{
+    "fileName": "MagicWandIcon",
+    "name": "Magic Wand",
+    "tags": [
+        "magic",
+        "wand",
+        "auto",
+        "fix",
+        "enhance"
+    ],
+    "categories": [
+        "editor",
+        "interface"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "auto fix",
+        "auto enhance",
+        "magic fix",
+        "quick edit",
+        "automatic"
+    ]
+}

@@ -1,0 +1,17 @@
+# 15i
+
+15i is a collection of icons for the web based on the [Radix UI Icons](https://www.radix-ui.com/icons) library.
+
+## Installation
+
+## Metadata
+
+```ts
+import { metadata, IconMetadata, IconName } from '15i';
+
+// Get metadata for a specific icon
+const hamburgerMetadata = metadata.HamburgerMenuIcon;
+console.log(hamburgerMetadata.title); // "Hamburger Menu"
+
+// Type-safe icon names
+const iconName: IconName = "HamburgerMenuIcon";```

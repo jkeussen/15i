@@ -1,0 +1,28 @@
+{
+    "fileName": "ColorWheelIcon",
+    "name": "Color Wheel",
+    "tags": [
+        "color",
+        "picker",
+        "wheel",
+        "palette",
+        "customization"
+    ],
+    "categories": [
+        "interface",
+        "editor"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "color picker",
+        "color palette",
+        "color selection",
+        "customization",
+        "design tool"
+    ]
+}

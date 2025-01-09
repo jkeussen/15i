@@ -1,0 +1,27 @@
+{
+    "fileName": "ArrowDownIcon",
+    "name": "Arrow Down",
+    "tags": [
+        "arrow",
+        "direction",
+        "down",
+        "south",
+        "vertical"
+    ],
+    "categories": [
+        "arrows",
+        "navigation"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "downward",
+        "south direction",
+        "down arrow",
+        "vertical arrow"
+    ]
+}

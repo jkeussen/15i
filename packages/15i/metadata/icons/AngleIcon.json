@@ -1,0 +1,27 @@
+{
+    "fileName": "AngleIcon",
+    "name": "Angle",
+    "tags": [
+        "angle",
+        "degree",
+        "rotate",
+        "measure",
+        "geometry"
+    ],
+    "categories": [
+        "editor",
+        "shapes"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "rotation angle",
+        "degree measure",
+        "geometric angle",
+        "protractor"
+    ]
+}

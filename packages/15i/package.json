@@ -4,7 +4,9 @@
     "type": "module",
     "scripts": {
         "dev": "tsup src/index.ts --format cjs,esm --dts --watch",
-        "build": "tsup src/index.ts --format cjs,esm --dts"
+        "build": "tsup src/index.ts --format cjs,esm --dts",
+        "clean": "rm -rf dist",
+        "generate-metadata": "tsx scripts/generate-metadata.ts"
     },
     "exports": {
         ".": {

@@ -1,0 +1,28 @@
+{
+    "fileName": "GlobeIcon",
+    "name": "Globe",
+    "tags": [
+        "globe",
+        "world",
+        "international",
+        "web",
+        "network"
+    ],
+    "categories": [
+        "interface",
+        "communication"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "world wide web",
+        "internet",
+        "global",
+        "international",
+        "earth"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "fileName": "ArrowTopLeftIcon",
+    "name": "Arrow Top Left",
+    "tags": [
+        "arrow",
+        "direction",
+        "diagonal",
+        "northwest",
+        "corner"
+    ],
+    "categories": [
+        "arrows",
+        "navigation"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "diagonal arrow",
+        "top left",
+        "northwest direction",
+        "corner arrow"
+    ]
+}

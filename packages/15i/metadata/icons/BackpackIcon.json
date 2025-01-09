@@ -1,0 +1,27 @@
+{
+    "fileName": "BackpackIcon",
+    "name": "Backpack",
+    "tags": [
+        "backpack",
+        "bag",
+        "storage",
+        "pack",
+        "carry"
+    ],
+    "categories": [
+        "interface",
+        "shapes"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "rucksack",
+        "knapsack",
+        "bag pack",
+        "storage bag"
+    ]
+}

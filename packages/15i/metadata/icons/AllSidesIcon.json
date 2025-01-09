@@ -1,0 +1,27 @@
+{
+    "fileName": "AllSidesIcon",
+    "name": "All Sides",
+    "tags": [
+        "sides",
+        "border",
+        "edges",
+        "expand",
+        "all"
+    ],
+    "categories": [
+        "layout",
+        "editor"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "all directions",
+        "every side",
+        "full border",
+        "all edges"
+    ]
+}

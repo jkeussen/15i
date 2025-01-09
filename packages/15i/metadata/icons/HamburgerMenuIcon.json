@@ -1,0 +1,27 @@
+{
+    "fileName": "HamburgerMenuIcon",
+    "name": "Hamburger Menu",
+    "tags": [
+        "menu",
+        "navigation",
+        "hamburger",
+        "options",
+        "toggle"
+    ],
+    "categories": [
+        "interface",
+        "navigation"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "mobile menu",
+        "nav menu",
+        "three lines",
+        "menu button"
+    ]
+}

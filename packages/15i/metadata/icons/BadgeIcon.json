@@ -1,0 +1,27 @@
+{
+    "fileName": "BadgeIcon",
+    "name": "Badge",
+    "tags": [
+        "badge",
+        "label",
+        "tag",
+        "status",
+        "notification"
+    ],
+    "categories": [
+        "interface",
+        "status"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "status badge",
+        "notification dot",
+        "label tag",
+        "indicator"
+    ]
+}

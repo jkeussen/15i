@@ -1,0 +1,27 @@
+{
+    "fileName": "AlignCenterHorizontallyIcon",
+    "name": "Align Center Horizontally",
+    "tags": [
+        "align",
+        "center",
+        "horizontal",
+        "layout",
+        "middle"
+    ],
+    "categories": [
+        "layout",
+        "editor"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "horizontal center",
+        "center alignment",
+        "horizontal alignment",
+        "center elements"
+    ]
+}

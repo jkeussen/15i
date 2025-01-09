@@ -316,3 +316,6 @@ export * from "./icons/ViewVerticalIcon.js";
 export * from "./icons/WidthIcon.js";
 export * from "./icons/ZoomInIcon.js";
 export * from "./icons/ZoomOutIcon.js";
+
+// Export metadata
+export * from "./metadata.js";

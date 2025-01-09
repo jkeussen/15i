@@ -1,0 +1,28 @@
+{
+    "fileName": "BoxModelIcon",
+    "name": "Box Model",
+    "tags": [
+        "box",
+        "model",
+        "layout",
+        "padding",
+        "margin"
+    ],
+    "categories": [
+        "development",
+        "layout"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "css box model",
+        "layout model",
+        "spacing",
+        "container model",
+        "box sizing"
+    ]
+}

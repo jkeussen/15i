@@ -1,0 +1,27 @@
+{
+    "fileName": "BookmarkFilledIcon",
+    "name": "Bookmark Filled",
+    "tags": [
+        "bookmark",
+        "save",
+        "favorite",
+        "marker",
+        "filled"
+    ],
+    "categories": [
+        "interface",
+        "status"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "saved item",
+        "favorites list",
+        "bookmark page",
+        "mark"
+    ]
+}

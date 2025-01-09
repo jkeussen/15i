@@ -1,0 +1,28 @@
+{
+    "fileName": "GitHubLogoIcon",
+    "name": "GitHub Logo",
+    "tags": [
+        "github",
+        "logo",
+        "brand",
+        "social",
+        "development"
+    ],
+    "categories": [
+        "social",
+        "development"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "version control",
+        "git",
+        "repository",
+        "social coding",
+        "source control"
+    ]
+}

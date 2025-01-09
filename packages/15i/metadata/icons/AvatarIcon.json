@@ -1,0 +1,27 @@
+{
+    "fileName": "AvatarIcon",
+    "name": "Avatar",
+    "tags": [
+        "avatar",
+        "profile",
+        "user",
+        "person",
+        "account"
+    ],
+    "categories": [
+        "interface",
+        "social"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "profile picture",
+        "user avatar",
+        "account image",
+        "profile photo"
+    ]
+}

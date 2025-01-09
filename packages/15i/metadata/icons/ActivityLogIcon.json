@@ -1,0 +1,27 @@
+{
+    "fileName": "ActivityLogIcon",
+    "name": "Activity Log",
+    "tags": [
+        "activity",
+        "log",
+        "history",
+        "timeline",
+        "events"
+    ],
+    "categories": [
+        "interface",
+        "development"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "event log",
+        "history timeline",
+        "activity feed",
+        "changelog"
+    ]
+}

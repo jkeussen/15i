@@ -1,0 +1,27 @@
+{
+    "fileName": "BellIcon",
+    "name": "Bell",
+    "tags": [
+        "bell",
+        "notification",
+        "alert",
+        "alarm",
+        "reminder"
+    ],
+    "categories": [
+        "interface",
+        "status"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "notifications",
+        "alerts",
+        "notification bell",
+        "activity alert"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "fileName": "AspectRatioIcon",
+    "name": "Aspect Ratio",
+    "tags": [
+        "aspect",
+        "ratio",
+        "resize",
+        "dimension",
+        "scale"
+    ],
+    "categories": [
+        "editor",
+        "layout"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "image ratio",
+        "proportions",
+        "scaling",
+        "dimensions"
+    ]
+}

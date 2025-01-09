@@ -1,0 +1,27 @@
+{
+    "fileName": "ArchiveIcon",
+    "name": "Archive",
+    "tags": [
+        "archive",
+        "storage",
+        "box",
+        "file",
+        "store"
+    ],
+    "categories": [
+        "interface",
+        "development"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "file storage",
+        "archive box",
+        "compress",
+        "package"
+    ]
+}

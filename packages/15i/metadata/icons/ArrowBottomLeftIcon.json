@@ -1,0 +1,27 @@
+{
+    "fileName": "ArrowBottomLeftIcon",
+    "name": "Arrow Bottom Left",
+    "tags": [
+        "arrow",
+        "direction",
+        "diagonal",
+        "southwest",
+        "corner"
+    ],
+    "categories": [
+        "arrows",
+        "navigation"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "diagonal arrow",
+        "bottom left",
+        "southwest direction",
+        "corner arrow"
+    ]
+}

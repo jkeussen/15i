@@ -1,0 +1,28 @@
+{
+    "fileName": "LightningBoltIcon",
+    "name": "Lightning Bolt",
+    "tags": [
+        "lightning",
+        "power",
+        "energy",
+        "fast",
+        "electric"
+    ],
+    "categories": [
+        "interface",
+        "status"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "flash",
+        "electricity",
+        "speed",
+        "quick action",
+        "power on"
+    ]
+}

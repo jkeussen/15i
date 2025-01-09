@@ -1,0 +1,27 @@
+{
+    "fileName": "AccessibilityIcon",
+    "name": "Accessibility",
+    "tags": [
+        "accessibility",
+        "a11y",
+        "inclusive",
+        "human",
+        "universal"
+    ],
+    "categories": [
+        "interface",
+        "status"
+    ],
+    "contributors": [
+        {
+            "name": "Radix UI",
+            "github": "radix-ui"
+        }
+    ],
+    "keywords": [
+        "screen reader",
+        "wcag",
+        "ada",
+        "accessible"
+    ]
+}

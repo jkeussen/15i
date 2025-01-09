@@ -1,0 +1,78 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Icon Metadata",
+    "description": "Metadata for 15i icons",
+    "type": "object",
+    "required": [
+        "fileName",
+        "name",
+        "tags",
+        "categories"
+    ],
+    "properties": {
+        "fileName": {
+            "type": "string",
+            "description": "The name of the React component file"
+        },
+        "name": {
+            "type": "string",
+            "description": "Human-readable name of the icon"
+        },
+        "contributors": {
+            "type": "array",
+            "description": "List of contributors who worked on this icon",
+            "items": {
+                "type": "object",
+                "required": [
+                    "name"
+                ],
+                "properties": {
+                    "name": {
+                        "type": "string",
+                        "description": "Contributor's name"
+                    },
+                    "github": {
+                        "type": "string",
+                        "description": "Contributor's GitHub username"
+                    }
+                }
+            }
+        },
+        "tags": {
+            "type": "array",
+            "description": "Searchable tags for the icon",
+            "items": {
+                "type": "string"
+            },
+            "minItems": 1
+        },
+        "categories": {
+            "type": "array",
+            "description": "Categories this icon belongs to",
+            "items": {
+                "type": "string",
+                "enum": [
+                    "interface",
+                    "arrows",
+                    "media",
+                    "shapes",
+                    "editor",
+                    "social",
+                    "development",
+                    "layout",
+                    "navigation",
+                    "communication",
+                    "status"
+                ]
+            },
+            "minItems": 1
+        },
+        "keywords": {
+            "type": "array",
+            "description": "Additional keywords for search",
+            "items": {
+                "type": "string"
+            }
+        }
+    }
+}
